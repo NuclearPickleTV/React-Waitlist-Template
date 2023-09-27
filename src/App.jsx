@@ -21,7 +21,7 @@ export default function App() {
               </form>
             </div>
           </div>
-          <a target="_blank" title="Check out the source code" rel="noopener noreferrer" className="ease-in-out hover:scale-105 absolute bottom-2 left-2 w-8 h-8 opacity-10" href="https://github.com/NuclearPickleTV">         
+          <a target="_blank" title="Check out the source code" rel="noopener noreferrer" className="ease-in-out hover:scale-105 absolute bottom-2 left-2 w-8 h-8 opacity-10" href="https://github.com/NuclearPickleTV/React-Waitlist-Template">         
             <img src="./images/git.png" alt="github logo" className=""/>
           </a>
       </div>
