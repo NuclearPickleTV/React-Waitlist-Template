@@ -7,7 +7,7 @@ export default function App() {
       <div className="w-screen h-screen absolute">
           <div className="w-full h-full flex flex-col items-center justify-center">
             <div className="text-center">
-              <h1 className="text-white font-bold text-3xl">Your<span className="text-red-600">Product</span></h1>
+              <h1 className="text-white font-bold text-3xl">Your <span className="text-red-600">Product</span></h1>
               <p className="text-white">Our product is amazing and helpful! (coming soon)</p>
             </div>
             <div className="pt-8">
