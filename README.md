@@ -3,6 +3,8 @@
 ## Introduction
 Hello! I created this simple front end product waitlist website. Keep in mind this has no back end integration for the functionality of the waitlist but does have a nice and sleek design. Feel free to use this for your projects as long as you do not resell it. If you would like to contribute I welcome contributions and will gladly merge them! Enjoy!
 
+![image](https://github.com/NuclearPickleTV/React-Waitlist-Template/assets/90234811/f823fd43-996f-40f8-9e5d-bcc8703f1989)
+
 ## Prerequisites
 This project uses `Tailwind`, `@Heroicons/react`, and `Vite`.
 
@@ -14,6 +16,7 @@ This project uses `Tailwind`, `@Heroicons/react`, and `Vite`.
 Feel free to add an issue and I will look into it.
 
 ## Contributions
+
 I warmly welcome any contributions and will gladly merge them if suitable.
 
 ## Usage
