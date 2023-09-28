@@ -20,4 +20,4 @@ I warmly welcome any contributions and will gladly merge them if suitable
 DO NOT RESELL THIS SOURCE CODE. FEEL FREE TO MODIFY AND USE THIS FOR ANY PERSONAL AND COMMERCIAL PROJECTS.
 
 ## Questions
-If you have any questions make a pull request.
+If you have any questions make an issue on GitHub and I will try my best to respond.
