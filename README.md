@@ -11,10 +11,10 @@ This project uses `Tailwind`, `@Heroicons/react`, and `Vite`.
 2. Edit the `index.html` file in order to add SEO and customize the tab title.
 
 ## Issues
-Feel free to add an issue and I will look into it
+Feel free to add an issue and I will look into it.
 
 ## Contributions
-I warmly welcome any contributions and will gladly merge them if suitable
+I warmly welcome any contributions and will gladly merge them if suitable.
 
 ## Usage
 DO NOT RESELL THIS SOURCE CODE. FEEL FREE TO MODIFY AND USE THIS FOR ANY PERSONAL AND COMMERCIAL PROJECTS.
