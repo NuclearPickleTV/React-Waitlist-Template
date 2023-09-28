@@ -1,8 +1,23 @@
-# React + Vite
+# React Waitlist Front End Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Introduction
+Hello! I created this simple front end product waitlist website. Keep in mind this has no back end integration for the functionality of the waitlist but does have a nice and sleek design. Feel free to use this for your projects as long as you do not resell it. If you would like to contribute I welcome contributions and will gladly merge them! Enjoy!
 
-Currently, two official plugins are available:
+## Prerequisites
+This project uses `Tailwind`, `@Heroicons/react`, and `Vite`.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Customization
+1. Edit the `src/app.jsx` file in order to customize the text, background image, etc...
+2. Edit the `index.html` file in order to add SEO and customize the tab title.
+
+## Issues
+Feel free to add an issue and I will look into it
+
+## Contributions
+I warmly welcome any contributions and will gladly merge them if suitable
+
+## Usage
+DO NOT RESELL THIS SOURCE CODE. FEEL FREE TO MODIFY AND USE THIS FOR ANY PERSONAL AND COMMERCIAL PROJECTS.
+
+## Questions
+If you have any questions make a pull request
