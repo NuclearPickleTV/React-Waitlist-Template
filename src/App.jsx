@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 export default function App() {
   return (
     <div className="w-screen h-screen flex items-center justify-center bg-[#10171e] overflow-hidden">
